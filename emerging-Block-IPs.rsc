@@ -190,7 +190,6 @@ add address=78.142.18.0/24 comment="Bot block list" list=BlockList
 add address=79.110.22.0/24 comment="Bot block list" list=BlockList
 add address=79.110.49.0/24 comment="Bot block list" list=BlockList
 add address=79.110.62.0/24 comment="Bot block list" list=BlockList
-add address=79.110.62.0/24 comment="Bot block list" list=BlockList
 add address=79.137.192.0/24 comment="Bot block list" list=BlockList
 add address=80.64.30.0/24 comment="Bot block list" list=BlockList
 add address=80.66.75.0/24 comment="Bot block list" list=BlockList
@@ -225,7 +224,6 @@ add address=85.158.148.0/24 comment="Bot block list" list=BlockList
 add address=85.158.149.0/24 comment="Bot block list" list=BlockList
 add address=85.158.151.0/24 comment="Bot block list" list=BlockList
 add address=85.203.26.0/24 comment="Bot block list" list=BlockList
-add address=85.209.11.0/24 comment="Bot block list" list=BlockList
 add address=85.209.11.0/24 comment="Bot block list" list=BlockList
 add address=85.209.133.0/24 comment="Bot block list" list=BlockList
 add address=86.104.195.0/24 comment="Bot block list" list=BlockList
@@ -564,7 +562,6 @@ add address=140.82.96.0/20 comment="Bot block list" list=BlockList
 add address=140.167.0.0/16 comment="Bot block list" list=BlockList
 add address=141.98.10.0/24 comment="Bot block list" list=BlockList
 add address=141.98.11.0/24 comment="Bot block list" list=BlockList
-add address=141.98.11.0/24 comment="Bot block list" list=BlockList
 add address=141.178.0.0/16 comment="Bot block list" list=BlockList
 add address=141.206.128.0/20 comment="Bot block list" list=BlockList
 add address=141.255.144.0/20 comment="Bot block list" list=BlockList
@@ -839,7 +836,6 @@ add address=185.228.232.0/24 comment="Bot block list" list=BlockList
 add address=185.230.44.0/22 comment="Bot block list" list=BlockList
 add address=185.232.19.0/24 comment="Bot block list" list=BlockList
 add address=185.232.45.0/24 comment="Bot block list" list=BlockList
-add address=185.234.216.0/24 comment="Bot block list" list=BlockList
 add address=185.234.216.0/24 comment="Bot block list" list=BlockList
 add address=185.237.104.0/22 comment="Bot block list" list=BlockList
 add address=185.237.226.0/23 comment="Bot block list" list=BlockList
